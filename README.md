@@ -24,7 +24,7 @@
 </p>
 
 <div align='center'>
-<b>i don't know what i'm doing</b><br>
+<b>hi there, why are you here?</b><br>
 <b>...</b>
 </div>
 <hr/>
