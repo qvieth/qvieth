@@ -23,8 +23,7 @@
 </p>
 
 <div align='center'>
-<b>hi there, why are you here?</b><br>
-<b>...</b>
+<b>Well.. here I am</b><br>
 </div>
 <hr/>
 
